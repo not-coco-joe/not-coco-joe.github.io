@@ -1,3 +1,3 @@
 Address for Kodi File Manager
 
-https://cocojoe2411.github.io
+https://not-coco-joe.github.io
